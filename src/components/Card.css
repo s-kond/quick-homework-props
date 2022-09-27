@@ -1,0 +1,18 @@
+.alive {
+    background-color: green;
+}
+
+.dead {
+    background-color: red;
+}
+
+.unknown {
+    background-color: grey;
+}
+
+.card {
+    text-align: center;
+    margin: 20px 40px;
+    padding: 20px;
+    border-radius: 10px;
+}
